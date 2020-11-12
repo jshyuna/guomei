@@ -1,6 +1,6 @@
 <template>
   <div>
-      我的
+      我的国美
   </div>
 </template>
 
